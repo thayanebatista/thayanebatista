@@ -12,7 +12,7 @@
 
 🔭 Instagram: [@thayanebatista](https://www.instagram.com/thayanebatista/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayanebatista&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayanebatista&show_icons=true&theme=chartreuse-dark)
 
 <!--
 **thayanebatista/thayanebatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
