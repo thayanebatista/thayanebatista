@@ -1,5 +1,6 @@
 ### Hey there 👋
 🤓 Me chamo Thayane, tenho 25 anos
+
 ⚡ Estou cursando Engenharia de Computação na UCDB 
 🧬 Faço iniciação Científica em Biotecnologia 
     - 🎗 Avaliação de possíveis marcadores moleculares no câncer de mama utilizando **linguagem R**
