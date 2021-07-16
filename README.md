@@ -1,10 +1,10 @@
 ### Hey there 👋
 - 🤓 Me chamo Thayane, tenho 25 anos
-- ⚡ Cursando Engenharia de Computação na UCDB 
-- 🧬 Iniciação Científica em Biotecnologia 
+- ⚡ Estou cursando Engenharia de Computação na UCDB 
+- 🧬 Faço iniciação Científica em Biotecnologia 
     - 🎗 Avaliação de possíveis marcadores moleculares no câncer de mama utilizando **linguagem R**
 - 👯 Estudando _machine learning_ aplicada a genes relacionados ao câncer de mama
-- 🔨 Praticando pela primeira vez JS, CSS, HTML e com muita vontade de aprender tudo relacionado a desenvolvimento 
+- 🔨 Praticando pela primeira vez JS e com muita vontade de aprender tudo relacionado a desenvolvimento 
 - 🎈 Tenho vários hobbies doidos 
 
 - 🔭 Instagram: [@thayanebatista](https://www.instagram.com/thayanebatista/)
