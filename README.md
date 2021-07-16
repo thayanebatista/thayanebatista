@@ -1,13 +1,13 @@
 ### Hey there 👋
-- 🤓 Me chamo Thayane, tenho 25 anos
-- ⚡ Estou cursando Engenharia de Computação na UCDB 
-- 🧬 Faço iniciação Científica em Biotecnologia 
+🤓 Me chamo Thayane, tenho 25 anos
+⚡ Estou cursando Engenharia de Computação na UCDB 
+🧬 Faço iniciação Científica em Biotecnologia 
     - 🎗 Avaliação de possíveis marcadores moleculares no câncer de mama utilizando **linguagem R**
-- 👯 Estudando _machine learning_ aplicada a genes relacionados ao câncer de mama
-- 🔨 Praticando pela primeira vez JS e com muita vontade de aprender tudo relacionado a desenvolvimento 
-- 🎈 Tenho vários hobbies doidos 
+👯 Estudando _machine learning_ aplicada a genes relacionados ao câncer de mama
+🔨 Praticando pela primeira vez JS e com muita vontade de aprender tudo relacionado a desenvolvimento 
+🎈 Tenho vários hobbies doidos 
 
-- 🔭 Instagram: [@thayanebatista](https://www.instagram.com/thayanebatista/)
+🔭 Instagram: [@thayanebatista](https://www.instagram.com/thayanebatista/)
 <!--
 **thayanebatista/thayanebatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
