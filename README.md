@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- ⚡ Cursando Engenharia de Computação na UCDB 
+- 🤔 Iniciação Científica em Biotecnologia 
+    - Avaliação de possíveis marcadores moleculares no câncer de mama utilizando **linguagem R**
+- 👯 Estudando _machine learning_ aplicada a genes relacionados ao câncer de mama
+- 🔭 Praticando pela primeira vez JS, CSS, HTML e com muita vontade de aprender tudo relacionado a desenvolvimento 
 <!--
 **thayanebatista/thayanebatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
