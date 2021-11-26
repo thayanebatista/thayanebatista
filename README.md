@@ -1,7 +1,10 @@
+![](https://komarev.com/ghpvc/?username=thayanebatistas&color=006bed)
+
 ### Hey there 👋
 🤓 I am Thayane
 
-- ⚡ I'm currently studying Computer Engineering - UCDB
+
+- 🎓 I'm currently studying Computer Engineering - UCDB
 - ᛃ I'm curretly doing internship at JERA. 
 - 🧬 I'm currently doing scientific initiation in Biotechnology
     - 🎗 Evaluation of possible molecular markers in breast cancer using **R**
@@ -14,8 +17,35 @@
 
 🔭 Instagram: [@thayanebatista](https://www.instagram.com/thayanebatista/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayanebatista&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanebatista&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+
+<h3> :rocket: &nbsp; Skills </h3>
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  
+
+**Development Tools**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+[![iuricode](https://github-readme-stats.vercel.app/api?username=thayanebatista&theme=dark)](https://github.com/thayanebatista/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanebatista&hide=html&layout=compact&theme=dark)](https://github.com/thayanebatista/)
+
+
+<h3> :earth_americas: &nbsp;Find me: </h3> 
+
+[![Linkedin: Thayane Batista](https://img.shields.io/badge/-thayanebatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thayanebatista/)](https://www.linkedin.com/in/thayanebatista/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thayane@jeraapps.com)](mailto:thayane@jeraapps.com)
+[![GitHub Thayane]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/thayanebatista)
+
 
 <!--
 **thayanebatista/thayanebatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
