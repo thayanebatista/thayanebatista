@@ -1,14 +1,16 @@
 ### Hey there 👋
-🤓 Me chamo Thayane, tenho 25 anos
+🤓 I am Thayane
 
-- ⚡ Estou cursando Engenharia de Computação na UCDB
-- 🧬 Faço iniciação Científica em Biotecnologia
-    - 🎗 Avaliação de possíveis marcadores moleculares no câncer de mama utilizando **linguagem R**
-- ᛃ  Estágio na Jera desde Agosto/2021
-- 👯 Estudando _machine learning_ aplicada a genes relacionados ao câncer de mama
-- 🔨 Praticando pela primeira vez JS/VUE/RAILS e com muita vontade de aprender tudo relacionado a desenvolvimento
-- 🎈 Tenho vários hobbies doidos 
-
+- ⚡ I'm currently studying Computer Engineering - UCDB
+- ᛃ I'm curretly doing internship at JERA. 
+- 🧬 I'm currently doing scientific initiation in Biotechnology
+    - 🎗 Evaluation of possible molecular markers in breast cancer using **R**
+    - 💬 Ask me about breast cancer
+- 👯 I'm studying _machine learning_ applied to breast cancer related genes
+- 🔨 I'm currently learning and using Vue, HTML, CSS, TypeScript everyday at JERA.
+- 🤔 I’m looking for help with ReactNative, Ruby On Rails 
+- 🎈 I have a lot of crazy hobbies 
+- 😄 Pronouns: she/her
 
 🔭 Instagram: [@thayanebatista](https://www.instagram.com/thayanebatista/)
 
