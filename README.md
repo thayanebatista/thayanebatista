@@ -21,6 +21,23 @@
 - 😄 Pronouns: she/her
 
 ---
+### Summary of Daily Activities:
+
+- **Front-end Development with Vue.js**: Creating dynamic and responsive user interfaces. Implementing reusable components. Maintaining and optimizing front-end code.
+
+- **Using Vuetify**: Utilizing pre-styled components to speed up the design process. Ensuring a consistent and visually pleasing user experience.
+
+- **Styling with Tailwind CSS**: Applying quick and flexible styles to create customized layouts. Developing modern and intuitive designs.
+
+- **Programming with TypeScript**: Using static typing to increase code security and maintainability. Proactively identifying and correcting common errors.
+
+- **API Development with Ruby on Rails**: Creating and maintaining robust APIs for efficient communication between front-end and back-end. Implementing complete functionalities, from route configuration to database management. Ensuring security and performance in application communication.
+
+- **Integration and Testing**: Integrating different technologies and tools to ensure a harmonious workflow. Conducting tests to ensure the quality and functionality of developed applications.
+
+- **Collaboration and Continuous Improvement**: Working in a team to discuss requirements and technical solutions. Participating in code reviews and brainstorming sessions for continuous improvements.
+
+---
 
 <h3> :earth_americas: &nbsp;Find me: </h3> 
 
