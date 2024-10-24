@@ -5,7 +5,7 @@
 🤓 I am Thayane
 
 - 🎓 Graduated in Computer Engineering - UCDB
-- 💼 Employed at JERA for almost 2 years
+- 💼 Employed at JERA for more than 3 years
 - 💻 Web developer passionate about building impactful solutions
 - 🔨 Currently focused on mastering Vue, Vuetify, Tailwind, and TypeScript
 - 🤔 Seeking assistance with ReactNative and Ruby On Rails
