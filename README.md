@@ -92,9 +92,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thayanebatista&theme=modern-lilac&mode=weekly)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayanebatista&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
 <!--
 badges:
 https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md
