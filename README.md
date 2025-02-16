@@ -1,107 +1,75 @@
-![](https://komarev.com/ghpvc/?username=thayanebatistas&color=006bed)
-[![GitHub Thayane]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/thayanebatista)
+<h1 align="left"> Oh, hey there! 👋🏻 I'm Thayane </h1>
 
-### Hey there 👋
-🤓 I am Thayane
+###
 
-- 🎓 Graduated in Computer Engineering - UCDB
-- 💼 Employed at JERA for more than 3 years
-- 💻 Web developer passionate about building impactful solutions
-- 🔨 Currently focused on mastering Vue, Vuetify, Tailwind, and TypeScript
-- 🤔 Seeking assistance with ReactNative and Ruby On Rails
-- 🧬 Passionate about biotechnology
-  - 💬 Ask me about breast cancer
-  - 👯  Previously studied machine learning applied to breast cancer-related genes
-- 🎈 Enthusiast of numerous hobbies
-  - 🥊 boxing
-  - 🤼 muay thai
-  - 🏋️‍♀️ gym everyday
-  - 🎲 enthusiastic tabletop RPG player
-  - 🎮 Overwatch
-- 😄 Pronouns: she/her
+<p align="center">🦄 SO FANTASTIC TO HAVE YOU HERE 🌈 </p>
 
----
-### Summary of Daily Activities:
+<h2 align="left">About me</h2>
 
-- **Front-end Development with Vue.js**: Creating dynamic and responsive user interfaces. Implementing reusable components. Maintaining and optimizing front-end code.
+From Brazil 📍, software engineer passionate about technology and front-end development 💚. More than 3 years of experience building impactful solutions 🛠. Currently improving my skills in Vue.js, Nuxt, TypeScript, Rails and full-stack development.
 
-- **Using Vuetify**: Utilizing pre-styled components to speed up the design process. Ensuring a consistent and visually pleasing user experience.
+## Front-End Stack 🎭
 
-- **Styling with Tailwind CSS**: Applying quick and flexible styles to create customized layouts. Developing modern and intuitive designs.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="Nuxt.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vuetify" height="40" alt="Vuetify logo"  />
+</div>
 
-- **Programming with TypeScript**: Using static typing to increase code security and maintainability. Proactively identifying and correcting common errors.
+## Back-End & API Development 🏗
 
-- **API Development with Ruby on Rails**: Creating and maintaining robust APIs for efficient communication between front-end and back-end. Implementing complete functionalities, from route configuration to database management. Ensuring security and performance in application communication.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="Ruby on Rails logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo"  />
+</div>
 
-- **Integration and Testing**: Integrating different technologies and tools to ensure a harmonious workflow. Conducting tests to ensure the quality and functionality of developed applications.
+## Testing & Quality Assurance 🧪
 
-- **Collaboration and Continuous Improvement**: Working in a team to discuss requirements and technical solutions. Participating in code reviews and brainstorming sessions for continuous improvements.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="Cypress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Vitest logo"  />
+</div>
 
----
+## Cloud & DevOps ☁
 
-<h3> :earth_americas: &nbsp;Find me: </h3> 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo"  />
+</div>
+
+## 🏋️‍♀️ Hobbies & Interests
+
+- 🥊 Boxing,Muay Thai
+- 🏋️‍♀️ Gym enthusiast (every day!)
+- 🎲 Tabletop RPG lover
+- 🎮 Marvel Rivals player
+- 🧬 Passionate about biotechnology and breast cancer research
+
+## 📫 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayanebatista/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:thayane@jera.com.br)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thayanebatista/)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/thayane)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:thayane.batista.ec@gmail.com)
 
 ---
 
-<h3> 🚀 Skills </h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanebatista&layout=compact&theme=dark)](https://github.com/thayanebatista/)
 
-📚📋 Languages, Frameworks, Platforms and Libraries 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
-☁ Cloud/Hosting
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-🎛️ Operating System
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-
-🧪 Testing
-
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)
-
-🧑‍💻 Others 
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-<!-- [![iuricode](https://github-readme-stats.vercel.app/api?username=thayanebatista&theme=dark)](https://github.com/thayanebatista/) -->
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanebatista&hide=html&layout=compact&theme=dark)](https://github.com/thayanebatista/)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thayanebatista&theme=modern-lilac&mode=weekly)](https://git.io/streak-stats)
-
-<!--
-badges:
-https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md
--->
