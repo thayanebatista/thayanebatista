@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🦄 SO FANTASTIC TO HAVE YOU HERE 🌈 </p>
+<p align="center">🦄 HAPPY TO HAVE YOU HERE 🌈 </p>
 
 <h2 align="left">About me</h2>
 
@@ -71,5 +71,9 @@ From Brazil 📍, software engineer passionate about technology and front-end de
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanebatista&layout=compact&theme=dark)](https://github.com/thayanebatista/)
+## <img src="https://skillicons.dev/icons?i=gitlab" height="20" alt="GitLab logo"  /> Gitlab Activity
+
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanebatista&layout=compact&theme=dark)](https://github.com/thayanebatista/) -->
+[![Contribuições GitLab](https://github.com/thayanebatista/gitlab-contrib-stats/blob/main/docs/gitlab_contributions.png?raw=true)](https://gitlab.com/thayane)
 
