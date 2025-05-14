@@ -75,5 +75,6 @@ From Brazil 📍, software engineer passionate about technology and front-end de
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanebatista&layout=compact&theme=dark)](https://github.com/thayanebatista/) -->
-[![Contribuições GitLab](https://github.com/thayanebatista/gitlab-contrib-stats/blob/main/docs/gitlab_contributions.png?raw=true)](https://gitlab.com/thayane)
+[![Contribuições GitLab](https://github.com/thayanebatista/gitlab-contrib-stats/blob/main/docs/gitlab_contributions.png?=raw=true)](https://gitlab.com/thayane)
+
 
