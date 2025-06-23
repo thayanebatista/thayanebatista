@@ -70,11 +70,9 @@ From Brazil 📍, software engineer passionate about technology and front-end de
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:thayane.batista.ec@gmail.com)
 
 ---
-
-## <img src="https://skillicons.dev/icons?i=gitlab" height="20" alt="GitLab logo"  /> Gitlab Activity
-
+<!-- ## <img src="https://skillicons.dev/icons?i=gitlab" height="20" alt="GitLab logo"  /> Gitlab Activity --> 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanebatista&layout=compact&theme=dark)](https://github.com/thayanebatista/) -->
-[![Contribuições GitLab](https://github.com/thayanebatista/gitlab-contrib-stats/blob/main/docs/gitlab_contributions.png?=raw=true)](https://gitlab.com/thayane)
+<!-- [![Contribuições GitLab](https://github.com/thayanebatista/gitlab-contrib-stats/blob/main/docs/gitlab_contributions.png?=raw=true)](https://gitlab.com/thayane) -->
 
 
