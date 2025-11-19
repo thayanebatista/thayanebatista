@@ -6,11 +6,13 @@
 
 <h2 align="left">About me</h2>
 
-From Brazil 📍, software engineer passionate about technology and front-end development 💚. More than 3 years of experience building impactful solutions 🛠. Currently improving my skills in Vue.js, Nuxt, TypeScript, Rails and full-stack development.
+From Brazil 📍, software engineer passionate about technology and front-end development 💚. More than 4 years of experience building impactful solutions 🛠. Currently improving my skills in Svelte, Vue.js, Nuxt, TypeScript, Rails and full-stack development.
 
 ## Front-End Stack 🎭
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="Svelte logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="Nuxt.js logo"  />
@@ -61,8 +63,7 @@ From Brazil 📍, software engineer passionate about technology and front-end de
 - 🥊 Boxing,Muay Thai
 - 🏋️‍♀️ Gym enthusiast (every day!)
 - 🎲 Tabletop RPG lover
-- 🎮 Marvel Rivals player
-- 🧬 Passionate about biotechnology and breast cancer research
+- 🎮 Arc Raiders player
 
 ## 📫 Connect with me!
 
